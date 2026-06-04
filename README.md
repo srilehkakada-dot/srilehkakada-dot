@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+👋,+I'm+Pooja+Sai+Srilekha+Kada;Full+Stack+Developer;Web+Application+Enthusiast;Building+tomorrow's+solutions+today" alt="Typing SVG" /></a>
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+👋,+I'm+Pooja+Sai+Srilekha+Kada;Full+Stack+Developer;MERN+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
 <div align="center">
   
@@ -10,9 +10,9 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** who loves building complete end-to-end web applications from the ground up. I believe that great software isn't just about elegant code—it's about creating experiences that resonate with the people who use it.
+I'm a passionate **Full Stack Developer** who loves building complete end-to-end web applications from the ground up. I believe that great software isn't just about elegant code—it's about creating intuitive, user-friendly experiences that solve real-world problems.
 
-With a strong foundation in both frontend and backend technologies, I transform ideas into fully functional digital solutions. I'm committed to continuous learning and staying updated with the latest development practices.
+With a strong foundation in both frontend and backend technologies, I transform ideas into fully functional digital solutions. I'm committed to continuous learning and staying updated with the latest industry trends and best practices.
 
 ---
 
@@ -50,7 +50,7 @@ With a strong foundation in both frontend and backend technologies, I transform 
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srilehkakada-dot&theme=dark&hide_border=true&show_icons=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9)
 
   ### GitHub Streak
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=srilehkakada-dot&theme=dark&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakNum=c9d1d9&currStreakLabel=00d9ff&sideNums=c9d1d9&sideLabels=00d9ff&dates=8b949e)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=srilehkakada-dot&theme=dark&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakNum=c9d1d9&currStreakLabel=00d9ff&sideNums=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9)
 
   ### Top Languages
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srilehkakada-dot&theme=dark&hide_border=true&layout=compact&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9)
