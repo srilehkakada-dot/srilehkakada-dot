@@ -46,17 +46,23 @@ With a strong foundation in both frontend and backend technologies, I transform 
 
 <div align="center">
 
-### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srilehkakada-dot&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&count_private=true)
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 20px;">
+  <div>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=srilehkakada-dot&theme=github_dark" alt="GitHub Stats" />
+  </div>
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=srilehkakada-dot" alt="GitHub streak" loading="lazy" />
+  </div>
+</div>
+
+### Contribution Graph
+![GitHub contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=srilehkakada-dot&theme=react-dark&hide_border=true&bg_color=00000000&color=a78bfa&line=22d3ee&point=ffffff&area=true)
 
 ### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srilehkakada-dot&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=c9d1d9)
 
 ### GitHub Trophies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=srilehkakada-dot&theme=dark_dimmed&no-frame=true&margin-w=4)
-
-### GitHub Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=srilehkakada-dot&theme=dark&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=00d9ff&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9)
 
 </div>
 
