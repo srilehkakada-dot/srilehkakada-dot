@@ -51,7 +51,7 @@ With a strong foundation in both frontend and backend technologies, I transform 
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=srilehkakada-dot&theme=github_dark" alt="GitHub Stats" />
   </div>
   <div>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=srilehkakada-dot" alt="GitHub streak" loading="lazy" />
+    <img src="https://github-readme-stats.vercel.app/api?username=srilehkakada-dot&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&line_height=24" alt="GitHub Stats Extended" />
   </div>
 </div>
 
