@@ -1,4 +1,4 @@
-# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+👋,+I'm+Pooja+Sai+Srilekha+Kada;Full+Stack+Developer;MERN+Enthusiast;Problem+Solver" alt="Typing SVG" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00D9FF&center=true&vCenter=true&width=940&lines=Hi+👋,+I'm+Pooja;Full+Stack+Developer;MERN+Enthusiast;Problem+Solver" alt="Typing SVG" />
 
 <div align="center">
   
