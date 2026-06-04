@@ -46,14 +46,7 @@ With a strong foundation in both frontend and backend technologies, I transform 
 
 <div align="center">
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-bottom: 20px;">
-  <div>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=srilehkakada-dot&theme=github_dark" alt="GitHub Stats" />
-  </div>
-  <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=srilehkakada-dot&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=c9d1d9&line_height=24" alt="GitHub Stats Extended" />
-  </div>
-</div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=srilehkakada-dot&theme=github_dark" alt="GitHub Stats" />
 
 ### Contribution Graph
 ![GitHub contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=srilehkakada-dot&theme=react-dark&hide_border=true&bg_color=00000000&color=a78bfa&line=22d3ee&point=ffffff&area=true)
