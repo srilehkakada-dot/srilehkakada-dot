@@ -59,24 +59,31 @@ With a strong foundation in both frontend and backend technologies, I transform 
 
 <div align="center">
 
-### 🔗 [URL Shortener](https://github.com/srilehkakada-dot)
+### 🌐 [My-Portfolio](https://github.com/srilehkakada-dot/My-Protfolio)
+A stunning personal portfolio website showcasing my projects, skills, and experience.
+
+**Live Demo:** [https://srilehkakada-dot.github.io/My-Protfolio/](https://srilehkakada-dot.github.io/My-Protfolio/)
+
+---
+
+### 🎨 [Creative Library](https://github.com/srilehkakada-dot/Creative-Library)
+A vibrant collection of creative assets and design resources for developers.
+
+**Live Demo:** [https://srilehkakada-dot.github.io/Creative-Library/](https://srilehkakada-dot.github.io/Creative-Library/)
+
+---
+
+### 🔗 [URL Shortener](https://github.com/srilehkakada-dot/URL-Shortener)
 A powerful and efficient URL shortening service built with full-stack technology. Convert long URLs into memorable short links with analytics.
 
-**Tech:** JavaScript, Node.js, MongoDB, React
+**Live Demo:** [https://url-shortener-production-2abb.up.railway.app](https://url-shortener-production-2abb.up.railway.app)
 
 ---
 
-### 🍽️ [L'AURA Restaurant Website](https://github.com/srilehkakada-dot)
-A fully functional restaurant website showcasing menu, online ordering, and reservation system with beautiful UI/UX design.
+### 📋 [ATS-Resume-Checker](https://github.com/srilehkakada-dot/ATS-Resume-Checker)
+An intelligent Applicant Tracking System Resume Checker that analyzes your resume against job descriptions and provides improvement suggestions.
 
-**Tech:** React, HTML, CSS, JavaScript, Node.js
-
----
-
-### 📋 [Job Application Tracker](https://github.com/srilehkakada-dot)
-A comprehensive application tracking system to manage job applications, interviews, and follow-ups all in one place.
-
-**Tech:** React, JavaScript, MongoDB, FastAPI, Python
+**Live Demo:** [https://sensational-caramel-dca04c.netlify.app](https://sensational-caramel-dca04c.netlify.app)
 
 </div>
 
@@ -90,7 +97,7 @@ I'd love to connect with you! Feel free to reach out for collaboration, opportun
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooja-kada-733462376/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/pooja_294)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=firefox&logoColor=black)](https://srilehkakada-dot.github.io/FUTURE_FS_01/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00D9FF?style=for-the-badge&logo=firefox&logoColor=black)](https://srilehkakada-dot.github.io/My-Protfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srilehkakada-dot)
 
 </div>
